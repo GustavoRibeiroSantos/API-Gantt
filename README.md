@@ -21,8 +21,6 @@ Acessando o link abaixo, você consegue acessar o Kanban com as nossas atividade
     - [Link para o Linkedin](https://www.linkedin.com/in/gustavo-ribeiro-dos-santos-0bbb08123/)  
 - Gabriel de Queiroz - Master e Dev
     - [Link para o Linkedin](https://www.linkedin.com/in/gabriel-queiroz-8a665815b/)  
-- Igor Pereira - Dev
-    - [Link para o Linkedin](http://linkedin.com/in/igor-da-silva-pereira-119794159/)  
 
 # Resultados:
 - Aqui postaremos updates sobre o projeto, desenvolvimento, testes e etc.
